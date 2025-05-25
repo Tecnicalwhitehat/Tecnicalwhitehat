@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 
   <!-- Windows Terminal (custom icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Windows Terminal" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/8579f534-b849-4a64-8334-a4dab003d07d" alt="Windows Terminal" width="50" height="50"/>
 
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
