@@ -49,10 +49,10 @@
 
 <p align="center">
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW9dZ4v-ccWk26XQvbW5WeXD5CsyG5y9Czsw&s" alt="AWS" width="50" height="50"/>
 
   <!-- Cloudflare (custom icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Cloudflare_Logo.png" alt="Cloudflare" width="70" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8l8F-9j455T9Dmc96J0qMnm8vU85npV076Q&s" alt="Cloudflare" width="70" height="40"/>
 
   <!-- Google Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
@@ -81,35 +81,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50"/>
 
   <!-- Apache Flink -->
-  <img src="https://flink.apache.org/images/flink-logo.png" alt="Apache Flink" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkB406wSAJzjahWg7rrHNI6mvvOP3-qSRjpg&s" alt="Apache Flin" width="50" height="50"/>
 
   <!-- Home Assistant -->
-  <img src="https://brands.home-assistant.io/home-assistant/logo.png" alt="Home Assistant" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7jYMohwnQG5NFg56_K9l2aa9tcHhFui6Chg&s" alt="Home Assistant" width="50" height="50"/>
 
   <!-- Pi-Hole -->
-  <img src="https://github.com/pi-hole/pi-hole/blob/master/advanced/whitelist/images/pihole-logo.png" alt="Pi-Hole" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEiQNT_IazxyJXiA9Iq9HMvO12AywH3DFHSw&s" alt="Pi-Hole" width="50" height="50"/>
 </p>
 
 ### 🎨 Design & UI
 
 <p align="center">
   <!-- Adobe Suite -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Adobe_Logo_2018.svg" alt="Adobe Suite" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqz-Q8ql46UCoHlHZ2cIfqkCc0w1uK2zdFZw&s" alt="Adobe Suite" width="50" height="50"/>
 
   <!-- Canva -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Canva_logo.png" alt="Canva" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqObTjgskSovzSyCVcNnpX8MwkTq-K9udVQ&s" alt="Canva" width="50" height="50"/>
 
   <!-- Blender -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Blender_logo_2014.svg" alt="Blender" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8rxGooJLH-YPorKRr6leGrEUAr3vLpR6Lrw&s" alt="Blender" width="50" height="50"/>
 
   <!-- Clip Studio Paint -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clip_Studio_Paint_logo.svg" alt="Clip Studio Paint" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmwgRC2F4PF3gZV8OvSfPIDMNBCSp7Efwq-g&s" alt="Clip Studio Paint" width="50" height="50"/>
 
   <!-- Proto.io -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Proto.io_logo.svg" alt="Proto.io" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReS8zriV-MWwVhccxjBLFc_pEDvvfu-IB1dQ&s" alt="Proto.io" width="50" height="50"/>
 
   <!-- Sketch -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Sketch_Logo.svg" alt="Sketch" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16-g_WseGct6lVaj2VycomwT4aNTDgaLLNQ&s" alt="Sketch" width="50" height="50"/>
 </p>
 
 
@@ -137,7 +137,7 @@
   <img src="https://www.svgrepo.com/show/9587585/ethical-hacking.svg" alt="Ethical Hacking" width="50" height="50"/>
 
   <!-- Web Application Pen Testing (WAPT) -->
-  <img src="https://www.secureideas.com/web-application-penetration-testing" alt="WAPT" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGfMAZJ__U0n0BzXBuCL2_AqEvIj75gH-pzw&s" alt="WAPT" width="50" height="50"/>
 
   <!-- Network Pen Testing (NPT) -->
   <img src="https://www.secureideas.com/network-penetration-testing" alt="NPT" width="50" height="50"/>
